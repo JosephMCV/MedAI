@@ -4,8 +4,9 @@ flask-jwt-extended
 langchain
 langchain-google-genai
 langchain-community
+langchain-chroma
 chromadb
 python-dotenv
 httpx
 pypdf
-duckduckgo-search
+ddgs

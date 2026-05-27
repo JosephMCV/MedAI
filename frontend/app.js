@@ -26,9 +26,6 @@ requireAuth();
 document.getElementById("navUser").textContent =
   `👤 ${localStorage.getItem("medai_nombre") || localStorage.getItem("medai_user")}`;
 
-checkAgentsStatus();
-setInterval(checkAgentsStatus, 15000);
-
 // ── Agent metadata ────────────────────────────────────────────────────────────
 
 const AGENTS = {
@@ -577,29 +574,3 @@ async function webSearch() {
 }
 
 document.getElementById("webQuery").addEventListener("keydown", e => { if (e.key === "Enter") webSearch(); });
-
-// ── Estado de agentes ─────────────────────────────────────────────────────────
-
-async function checkAgentsStatus() {
-  try {
-    const res  = await fetch(`${API}/agents-status`, { headers: authHeaders() });
-    if (!res.ok) return;
-    const data = await res.json();
-
-    const map = {
-      "status-mcp":       data.mcp_server,
-      "status-medico":    data.medico_diagnosticador,
-      "status-riesgos":   data.analista_riesgos,
-      "status-historia":  data.historia_clinica,
-      "status-traductor": data.traductor_paciente,
-    };
-
-    Object.entries(map).forEach(([id, status]) => {
-      const el = document.getElementById(id);
-      if (el) {
-        el.classList.toggle("online",  status === "online");
-        el.classList.toggle("offline", status !== "online");
-      }
-    });
-  } catch(_) {}
-}

@@ -257,25 +257,6 @@ input, textarea { font-family: inherit; }
   padding: 0 6px;
 }
 
-.agent-status-list { display: flex; flex-direction: column; gap: 4px; }
-.agent-status {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  padding: 5px 8px;
-  border-radius: 6px;
-  font-size: 0.82rem;
-  color: var(--text-2);
-}
-.agent-status .dot {
-  width: 7px; height: 7px;
-  border-radius: 50%;
-  background: var(--text-mute);
-  flex-shrink: 0;
-}
-.agent-status.online  .dot { background: var(--green); box-shadow: 0 0 0 3px rgba(22, 163, 74, 0.15); }
-.agent-status.offline .dot { background: var(--red);   box-shadow: 0 0 0 3px rgba(220, 38, 38, 0.12); }
-
 .sidebar-tool { font-size: 0.85rem; }
 .sidebar-tool summary {
   padding: 7px 8px;

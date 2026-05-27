@@ -3,6 +3,7 @@ langchain
 langchain-text-splitters
 langchain-google-genai
 langchain-community
+langchain-chroma
 chromadb
 python-dotenv
-duckduckgo-search
+ddgs
