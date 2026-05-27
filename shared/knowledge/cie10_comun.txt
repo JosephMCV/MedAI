@@ -1,0 +1,139 @@
+CÓDIGOS CIE-10 MÁS FRECUENTES EN ATENCIÓN PRIMARIA Y URGENCIAS
+================================================================
+
+FUENTE: Clasificación Internacional de Enfermedades, 10ª revisión (OMS).
+Subconjunto de uso clínico habitual en consulta general y urgencias.
+
+---
+
+CAPÍTULO I — ENFERMEDADES INFECCIOSAS Y PARASITARIAS
+
+A09  Diarrea y gastroenteritis de presunto origen infeccioso
+     Síntomas: deposiciones líquidas >3/día, dolor abdominal cólico, vómitos, fiebre baja.
+     Manejo: hidratación oral, dieta astringente. Coprocultivo si fiebre alta o sangre.
+
+B34.9 Infección viral, no especificada
+     Síndrome viral inespecífico (cuadro catarral, mialgias, fiebre baja).
+
+---
+
+CAPÍTULO IV — ENFERMEDADES ENDOCRINAS Y METABÓLICAS
+
+E11   Diabetes mellitus tipo 2
+     Criterios diagnósticos: glucemia ayunas ≥126 mg/dL en dos determinaciones, HbA1c ≥6.5%, o glucemia ≥200 mg/dL con síntomas (poliuria, polidipsia, pérdida de peso).
+     Complicaciones a vigilar: retinopatía, nefropatía, neuropatía, pie diabético.
+
+E03.9 Hipotiroidismo no especificado
+     Síntomas: astenia, ganancia de peso, intolerancia al frío, estreñimiento, bradicardia, piel seca.
+     Diagnóstico: TSH elevada, T4 libre baja.
+
+E78.5 Hiperlipidemia no especificada
+     LDL >130, colesterol total >200. Riesgo cardiovascular según SCORE.
+
+---
+
+CAPÍTULO IX — ENFERMEDADES DEL APARATO CIRCULATORIO
+
+I10   Hipertensión esencial (primaria)
+     Diagnóstico: PA ≥140/90 mmHg en consulta confirmada con MAPA o AMPA.
+     Manejo inicial: cambios estilo de vida + IECA/ARA-II o calcioantagonista.
+
+I21   Infarto agudo de miocardio
+     Síntomas: dolor torácico opresivo >20 min, irradiación a brazo izquierdo, diaforesis.
+     Diagnóstico: ECG (elevación ST en STEMI), troponinas elevadas.
+     Urgencia: activación de código infarto. CRÍTICO.
+
+I48   Fibrilación auricular
+     Síntomas: palpitaciones, disnea, mareo. Pulso irregular.
+     Manejo: anticoagulación según CHA2DS2-VASc, control de frecuencia/ritmo.
+
+I50   Insuficiencia cardíaca
+     Síntomas: disnea de esfuerzo, ortopnea, edemas en MMII, fatiga.
+     Diagnóstico: NT-proBNP, ecocardiograma (FEVI).
+
+---
+
+CAPÍTULO X — ENFERMEDADES DEL APARATO RESPIRATORIO
+
+J06.9 Infección aguda de vías respiratorias superiores
+     Cuadro catarral inespecífico. Manejo sintomático.
+
+J18   Neumonía adquirida en la comunidad
+     Síntomas: fiebre, tos productiva, dolor pleurítico, disnea, crepitantes.
+     Diagnóstico: Rx tórax (condensación). CURB-65 para gravedad.
+     Tratamiento: amoxicilina o macrólido según gravedad.
+
+J44   EPOC (Enfermedad pulmonar obstructiva crónica)
+     Síntomas: disnea progresiva, tos crónica, expectoración. Antecedente de tabaquismo.
+     Diagnóstico: espirometría (FEV1/FVC <0.7 post-broncodilatador).
+
+J45   Asma
+     Síntomas: sibilancias episódicas, opresión torácica, tos seca nocturna.
+     Diagnóstico: espirometría con prueba broncodilatadora positiva.
+
+---
+
+CAPÍTULO XI — ENFERMEDADES DEL APARATO DIGESTIVO
+
+K21.9 Reflujo gastroesofágico sin esofagitis
+     Síntomas: pirosis retroesternal, regurgitación ácida, tos nocturna.
+     Manejo: IBP (omeprazol), medidas higiénico-dietéticas.
+
+K29   Gastritis y duodenitis
+     Síntomas: epigastralgia, dispepsia, náuseas.
+     Considerar H. pylori (test del aliento).
+
+K35   Apendicitis aguda
+     Síntomas: dolor periumbilical migratorio a fosa ilíaca derecha (McBurney), náuseas, fiebre.
+     Diagnóstico: clínico + analítica (leucocitosis) + ecografía/TAC.
+     Tratamiento: apendicectomía urgente.
+
+K80   Colelitiasis
+     Cólico biliar: dolor en hipocondrio derecho postprandial, irradiado a escápula.
+     Diagnóstico: ecografía abdominal.
+
+---
+
+CAPÍTULO XIII — ENFERMEDADES OSTEOMUSCULARES
+
+M54.5 Lumbalgia
+     Dolor lumbar mecánico, sin banderas rojas. Manejo conservador (analgesia, movilización temprana).
+
+M25.5 Dolor articular
+     Dolor en articulación específica. Diferenciar mecánico vs inflamatorio.
+
+M79.7 Fibromialgia
+     Dolor musculoesquelético generalizado, fatiga, alteraciones del sueño, puntos gatillo.
+
+---
+
+CAPÍTULO XIV — ENFERMEDADES DEL APARATO GENITOURINARIO
+
+N39.0 Infección urinaria, sitio no especificado
+     Síntomas: disuria, polaquiuria, urgencia, dolor suprapúbico.
+     Diagnóstico: tira reactiva + urocultivo. Tratamiento empírico: fosfomicina, nitrofurantoína.
+
+N20   Litiasis renal
+     Cólico nefrítico: dolor lumbar irradiado a fosa ilíaca y genitales, hematuria, agitación.
+     Diagnóstico: ecografía / TAC sin contraste.
+
+---
+
+CAPÍTULO V — TRASTORNOS MENTALES
+
+F32   Episodio depresivo
+     Síntomas: ánimo deprimido, anhedonia, fatiga, alteraciones del sueño y apetito, ideas de culpa.
+     Cribado: PHQ-9. Tratamiento: ISRS + psicoterapia.
+
+F41.1 Trastorno de ansiedad generalizada
+     Preocupación excesiva y persistente >6 meses, inquietud, insomnio, tensión muscular.
+
+---
+
+CAPÍTULO XVIII — SIGNOS, SÍNTOMAS Y HALLAZGOS ANORMALES (INESPECÍFICOS)
+
+R51   Cefalea (inespecífica)
+R10   Dolor abdominal y pélvico
+R07.4 Dolor torácico, no especificado (siempre descartar SCA)
+R50.9 Fiebre, no especificada
+R53   Malestar y fatiga

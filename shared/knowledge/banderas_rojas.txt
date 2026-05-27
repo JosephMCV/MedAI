@@ -1,0 +1,107 @@
+CATÁLOGO DE BANDERAS ROJAS CLÍNICAS (RED FLAGS) — MEDICINA INTERNA Y URGENCIAS
+================================================================================
+
+FUENTE: NICE Guidelines, UpToDate, Guías ESC/AHA/OMS, Manual MSD.
+
+DEFINICIÓN: Una bandera roja es un signo o síntoma que sugiere patología grave subyacente
+y obliga a evaluación urgente, derivación a urgencias o estudios complementarios inmediatos.
+
+---
+
+BANDERA 1: CEFALEA EN TRUENO (THUNDERCLAP HEADACHE)
+----------------------------------------------------
+Descripción: Cefalea de inicio súbito que alcanza intensidad máxima en menos de 1 minuto, descrita como "el peor dolor de cabeza de mi vida".
+Patologías asociadas: Hemorragia subaracnoidea, disección arterial cervical, trombosis venosa cerebral, síndrome de vasoconstricción cerebral reversible.
+Conducta: Urgencias INMEDIATAS. TAC craneal sin contraste; si negativo, punción lumbar.
+Severidad: CRÍTICA
+
+BANDERA 2: DOLOR TORÁCICO CON IRRADIACIÓN Y CORTEJO VEGETATIVO
+---------------------------------------------------------------
+Descripción: Dolor opresivo retroesternal >20 minutos con irradiación a brazo izquierdo, mandíbula o espalda, asociado a diaforesis, náuseas o disnea.
+Patologías asociadas: Síndrome coronario agudo (IAM, angina inestable), disección aórtica, tromboembolismo pulmonar.
+Conducta: Urgencias INMEDIATAS. ECG en <10 minutos, troponinas seriadas.
+Severidad: CRÍTICA
+
+BANDERA 3: DISNEA SÚBITA CON DESATURACIÓN
+-----------------------------------------
+Descripción: Inicio brusco de dificultad respiratoria con SatO2 <92% al aire ambiente, taquipnea (FR >24) o uso de musculatura accesoria.
+Patologías asociadas: Tromboembolismo pulmonar, neumotórax, edema pulmonar, anafilaxia.
+Conducta: Urgencias INMEDIATAS. Oxigenoterapia, AngioTAC pulmonar / Rx tórax.
+Severidad: CRÍTICA
+
+BANDERA 4: PÉRDIDA DE PESO INVOLUNTARIA >5% EN 6 MESES
+-------------------------------------------------------
+Descripción: Pérdida de peso no intencionada superior al 5% del peso habitual en 6 meses, sin cambios dietéticos.
+Patologías asociadas: Neoplasias ocultas, hipertiroidismo, enfermedad inflamatoria intestinal, tuberculosis, VIH, depresión grave.
+Conducta: Estudio etiológico prioritario (analítica completa, marcadores tumorales orientados, imagen).
+Severidad: ALTA
+
+BANDERA 5: FIEBRE PERSISTENTE >3 SEMANAS SIN FOCO
+--------------------------------------------------
+Descripción: Temperatura >38.3°C en varias determinaciones durante más de 3 semanas sin diagnóstico tras estudio inicial. Definición clásica de "fiebre de origen desconocido".
+Patologías asociadas: Infecciones ocultas (endocarditis, TBC, abscesos), neoplasias hematológicas (linfoma), enfermedades autoinmunes (lupus, arteritis).
+Conducta: Estudio diferido pero exhaustivo: hemocultivos, ecocardio, TAC body, biopsia ganglionar si procede.
+Severidad: ALTA
+
+BANDERA 6: SANGRADO DIGESTIVO (HEMATEMESIS, MELENAS, HEMATOQUECIA)
+-------------------------------------------------------------------
+Descripción: Vómito con sangre, deposiciones negras alquitranadas o sangre roja por recto.
+Patologías asociadas: Úlcera péptica sangrante, varices esofágicas, cáncer colorrectal, divertículos.
+Conducta: Urgencias INMEDIATAS. Estabilización hemodinámica, endoscopia urgente.
+Severidad: CRÍTICA
+
+BANDERA 7: SÍNCOPE DE ESFUERZO O CON PRÓDROMOS CARDÍACOS
+--------------------------------------------------------
+Descripción: Pérdida brusca de conciencia durante ejercicio físico, o precedida de palpitaciones, dolor torácico o disnea.
+Patologías asociadas: Estenosis aórtica severa, miocardiopatía hipertrófica, arritmias ventriculares, tromboembolismo pulmonar.
+Conducta: ECG, ecocardiograma, Holter. Ingreso para monitorización si alto riesgo.
+Severidad: ALTA
+
+BANDERA 8: ALTERACIÓN AGUDA DEL NIVEL DE CONCIENCIA
+---------------------------------------------------
+Descripción: Cambio agudo en orientación, atención o respuesta, en horas o pocos días. Escala de Glasgow <15.
+Patologías asociadas: Sepsis, hipoglucemia, ACV, encefalitis, intoxicación, encefalopatía metabólica.
+Conducta: Urgencias INMEDIATAS. ABCDE, glucemia capilar, TAC craneal, analítica.
+Severidad: CRÍTICA
+
+BANDERA 9: DOLOR LUMBAR CON DÉFICIT NEUROLÓGICO O INCONTINENCIA
+----------------------------------------------------------------
+Descripción: Lumbalgia asociada a debilidad en miembros inferiores, anestesia en silla de montar, retención urinaria o incontinencia fecal.
+Patologías asociadas: Síndrome de cola de caballo, compresión medular tumoral, absceso epidural.
+Conducta: RM lumbar URGENTE. Valoración por neurocirugía. Riesgo de secuela permanente si demora >48h.
+Severidad: CRÍTICA
+
+BANDERA 10: HEMOPTISIS ABUNDANTE O RECURRENTE
+---------------------------------------------
+Descripción: Expectoración hemoptoica franca, >50 mL en 24 h o episodios repetidos.
+Patologías asociadas: Cáncer broncopulmonar, tuberculosis, bronquiectasias, embolismo pulmonar.
+Conducta: Rx tórax, TAC torácico, broncoscopia. Ingreso si hemoptisis masiva.
+Severidad: ALTA
+
+BANDERA 11: ICTERICIA INDOLORA PROGRESIVA
+-----------------------------------------
+Descripción: Coloración amarilla de piel y escleras de instauración progresiva, sin dolor abdominal asociado, con coluria y acolia.
+Patologías asociadas: Cáncer de páncreas (cabeza), colangiocarcinoma, ampuloma.
+Conducta: Ecografía abdominal, TAC/RM, marcadores tumorales (CA 19-9).
+Severidad: ALTA
+
+BANDERA 12: ADENOPATÍA SUPRACLAVICULAR
+--------------------------------------
+Descripción: Ganglio palpable en fosa supraclavicular (signo de Virchow si izquierdo), >1 cm, duro, no doloroso.
+Patologías asociadas: Cáncer gástrico, pulmonar, linfoma, metástasis intraabdominal.
+Conducta: Biopsia ganglionar. Estudio de extensión.
+Severidad: CRÍTICA
+
+BANDERA 13: CEFALEA DE NOVO EN >50 AÑOS
+---------------------------------------
+Descripción: Cefalea persistente de nueva aparición en mayor de 50 años, especialmente con claudicación mandibular, alteraciones visuales o VSG elevada.
+Patologías asociadas: Arteritis de células gigantes (Horton), tumor cerebral, hematoma subdural crónico.
+Conducta: VSG/PCR urgente, biopsia de arteria temporal. Corticoides empíricos si sospecha de Horton (riesgo de ceguera).
+Severidad: ALTA
+
+BANDERA 14: DOLOR ABDOMINAL CON ABDOMEN EN TABLA
+-------------------------------------------------
+Descripción: Dolor abdominal intenso con defensa muscular, rebote positivo (Blumberg), abdomen rígido.
+Patologías asociadas: Perforación de víscera hueca, peritonitis, isquemia mesentérica, apendicitis perforada.
+Conducta: Urgencias INMEDIATAS. Rx tórax (neumoperitoneo), TAC abdominal, valoración quirúrgica.
+Severidad: CRÍTICA

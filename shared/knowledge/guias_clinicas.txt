@@ -1,0 +1,112 @@
+GUÍAS CLÍNICAS DE PRÁCTICA — RESÚMENES DE LAS PRINCIPALES ENTIDADES
+====================================================================
+
+FUENTE: NICE, GOLD, GINA, ADA, ESC, SEMFYC, SEMI. Versiones actualizadas hasta 2025.
+
+---
+
+GUÍA 1: HIPERTENSIÓN ARTERIAL (ESC/ESH 2024)
+---------------------------------------------
+Diagnóstico: PA en consulta ≥140/90 mmHg confirmada con MAPA (≥130/80 medias 24h) o AMPA (≥135/85).
+Clasificación:
+- Óptima: <120/80
+- Normal: 120-129/80-84
+- Normal-alta: 130-139/85-89
+- HTA Grado 1: 140-159/90-99
+- HTA Grado 2: 160-179/100-109
+- HTA Grado 3: ≥180/110
+Tratamiento inicial: monoterapia o combinación de IECA o ARA-II + calcioantagonista o tiazida (clortalidona/indapamida).
+Objetivo: <130/80 en <70 años con buena tolerancia, <140/90 en frágiles.
+Estudio de daño orgánico: ECG, fondo de ojo, microalbuminuria, ecocardio si indicado.
+
+GUÍA 2: DIABETES MELLITUS TIPO 2 (ADA 2025)
+--------------------------------------------
+Diagnóstico: HbA1c ≥6.5% o glucemia ayunas ≥126 mg/dL o glucemia 2h SOG ≥200 mg/dL o glucemia al azar ≥200 mg/dL con síntomas.
+Objetivos HbA1c:
+- General: <7%
+- Frágiles/comorbilidad: <8%
+- Jóvenes sin complicaciones: <6.5%
+Tratamiento de elección:
+1. Cambios estilo de vida + metformina (primera línea si no contraindicada).
+2. Si ECV/IC/ERC: añadir iSGLT2 (empagliflozina, dapagliflozina) o aGLP-1 (semaglutida).
+3. Insulina si HbA1c >9% o glucotoxicidad.
+Cribado de complicaciones anual: retinopatía (fondo de ojo), nefropatía (microalbuminuria), neuropatía, pie diabético.
+
+GUÍA 3: EPOC (GOLD 2025)
+-------------------------
+Diagnóstico: espirometría FEV1/FVC <0.7 post-broncodilatador.
+Clasificación GOLD A-B-E según síntomas (CAT, mMRC) y exacerbaciones.
+Tratamiento escalonado:
+- Grupo A: broncodilatador (corta o larga duración).
+- Grupo B: LABA + LAMA.
+- Grupo E: LABA + LAMA + ICS si eosinófilos >300.
+Vacunación: gripe anual, neumocócica, COVID-19, VRS en >60 años.
+Rehabilitación respiratoria recomendada.
+
+GUÍA 4: ASMA (GINA 2025)
+-------------------------
+Cambio paradigma: NO usar SABA solo. Esquema escalonado con ICS-formoterol a demanda como rescate.
+Escalones:
+1. ICS-formoterol a demanda.
+2. ICS-formoterol baja dosis diaria + a demanda.
+3-4-5. Dosis crecientes de ICS-formoterol; añadir LAMA, biológicos.
+Control: ACT >20. Si exacerbación: ciclo corto de prednisona.
+
+GUÍA 5: SÍNDROME CORONARIO AGUDO (ESC 2023)
+--------------------------------------------
+SCACEST (con elevación ST): activar código infarto, angioplastia primaria <120 min.
+SCASEST: estratificar con GRACE. Cateterismo precoz si alto riesgo.
+Tratamiento dual antiplaquetario (DAPT): AAS + ticagrelor/prasugrel.
+Estatina alta potencia. IECA. Betabloqueante si FEVI baja.
+
+GUÍA 6: INSUFICIENCIA CARDÍACA (ESC 2023)
+------------------------------------------
+Pilar terapéutico ("fantastic four" en IC-FEr):
+1. IECA/ARA-II/ARNI (sacubitrilo-valsartán).
+2. Betabloqueante (bisoprolol, carvedilol, metoprolol).
+3. Antagonista del receptor mineralocorticoide (espironolactona, eplerenona).
+4. iSGLT2 (dapagliflozina, empagliflozina).
+Diuréticos de asa para congestión.
+
+GUÍA 7: NEUMONÍA ADQUIRIDA EN LA COMUNIDAD (SEPAR)
+---------------------------------------------------
+Gravedad por CURB-65 (Confusión, Urea >7, FR ≥30, PAS <90/PAD ≤60, edad ≥65):
+- 0-1: ambulatorio (amoxicilina 1g/8h).
+- 2: ingreso corto (amoxiclav o ceftriaxona).
+- ≥3: ingreso hospitalario, considerar UCI (cef 3ª + macrólido o levofloxacino).
+Duración: 5-7 días si buena evolución.
+
+GUÍA 8: INFECCIÓN URINARIA NO COMPLICADA
+-----------------------------------------
+Mujer joven sin factores de riesgo: cistitis no complicada.
+Tratamiento empírico:
+- Fosfomicina 3 g dosis única.
+- Nitrofurantoína 100 mg/12h × 5 días.
+Pielonefritis: ceftriaxona o ciprofloxacino 7-14 días.
+Urocultivo siempre en embarazo, pielonefritis, hombre, recurrente.
+
+GUÍA 9: DOLOR LUMBAR INESPECÍFICO (NICE)
+-----------------------------------------
+Sin banderas rojas: manejo conservador.
+- Mantener actividad, evitar reposo prolongado.
+- Analgesia escalonada: paracetamol → AINE corto plazo → opioide débil si dolor severo.
+- Fisioterapia / ejercicio terapéutico tras 2-6 semanas.
+NO solicitar imagen de rutina sin banderas rojas (>90% se resuelve <6 semanas).
+
+GUÍA 10: DEPRESIÓN MAYOR (NICE / SEP)
+--------------------------------------
+Cribado PHQ-9.
+Leve: psicoterapia (TCC) primera línea.
+Moderada-grave: psicoterapia + ISRS (sertralina, escitalopram).
+Mantener tratamiento mínimo 6-12 meses tras remisión.
+Riesgo suicida: explorar siempre, derivación urgente si ideación con plan.
+
+---
+
+PRINCIPIOS GENERALES DE PRESCRIPCIÓN SEGURA
+
+1. Revisar siempre alergias y medicación actual antes de prescribir.
+2. Ajustar dosis a función renal (TFG) y hepática.
+3. En ancianos: criterios STOPP/START, evitar polifarmacia (>5 fármacos).
+4. Embarazo y lactancia: consultar categoría FDA o clasificación australiana ADEC.
+5. Educación al paciente sobre adherencia, efectos adversos y signos de alarma.

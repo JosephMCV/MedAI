@@ -1,0 +1,8 @@
+mcp[cli]
+langchain
+langchain-text-splitters
+langchain-google-genai
+langchain-community
+chromadb
+python-dotenv
+duckduckgo-search

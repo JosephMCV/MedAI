@@ -1,0 +1,105 @@
+INTERACCIONES FARMACOLÓGICAS RELEVANTES Y CONTRAINDICACIONES
+==============================================================
+
+FUENTE: BOT PLUS (AEMPS), Vademécum, Stockley's Drug Interactions, Lexicomp.
+
+NOTA: Las interacciones se clasifican en CRÍTICA (contraindicación absoluta),
+ALTA (evitar o monitorizar estrechamente), MEDIA (precaución, ajuste de dosis),
+BAJA (interacción menor, vigilar).
+
+---
+
+INTERACCIÓN 1: WARFARINA + AINEs
+---------------------------------
+Mecanismo: Los AINEs (ibuprofeno, naproxeno, diclofenaco) potencian el efecto anticoagulante de la warfarina por desplazamiento de proteínas plasmáticas e inhibición plaquetaria, además de lesión gástrica.
+Riesgo: Hemorragia digestiva grave, sangrados intracraneales.
+Severidad: CRÍTICA
+Conducta: Evitar. Si se requiere analgesia, usar paracetamol. Si AINE es imprescindible, asociar IBP y monitorizar INR.
+
+INTERACCIÓN 2: IECA/ARA-II + DIURÉTICO AHORRADOR DE POTASIO + SUPLEMENTOS DE POTASIO
+-------------------------------------------------------------------------------------
+Mecanismo: La triple combinación produce acumulación de potasio (enalapril + espironolactona + ClK).
+Riesgo: Hiperpotasemia grave, arritmias cardíacas potencialmente fatales.
+Severidad: CRÍTICA
+Conducta: Evitar la triple combinación. Monitorizar K+ y función renal si imprescindible.
+
+INTERACCIÓN 3: ESTATINAS + MACRÓLIDOS (CLARITROMICINA, ERITROMICINA)
+--------------------------------------------------------------------
+Mecanismo: Los macrólidos inhiben el CYP3A4, aumentando los niveles de simvastatina/atorvastatina.
+Riesgo: Rabdomiolisis, insuficiencia renal aguda.
+Severidad: ALTA
+Conducta: Suspender la estatina durante el tratamiento con el macrólido, o usar azitromicina (mínima interacción).
+
+INTERACCIÓN 4: ISRS + TRAMADOL / TRIPTANES / IMAO
+-------------------------------------------------
+Mecanismo: Acumulación de serotonina (síndrome serotoninérgico).
+Riesgo: Agitación, hipertermia, rigidez muscular, convulsiones, fallo multiorgánico.
+Severidad: CRÍTICA
+Conducta: Evitar combinaciones. Si se cambia de ISRS a IMAO, respetar lavado de 14 días (fluoxetina: 5 semanas).
+
+INTERACCIÓN 5: METFORMINA + CONTRASTE YODADO INTRAVENOSO
+---------------------------------------------------------
+Mecanismo: Riesgo de acidosis láctica si insuficiencia renal post-contraste.
+Riesgo: Acidosis láctica grave.
+Severidad: ALTA
+Conducta: Suspender metformina 48 h antes y después de la administración de contraste si TFG <30 mL/min.
+
+INTERACCIÓN 6: ANTICOAGULANTES ORALES + AMIODARONA
+---------------------------------------------------
+Mecanismo: Amiodarona inhibe el metabolismo de warfarina (CYP2C9) y de los ACODs (P-gp, CYP3A4).
+Riesgo: Hemorragias.
+Severidad: ALTA
+Conducta: Reducir dosis de warfarina ~30-50%, monitorizar INR. Considerar reducción de ACODs.
+
+INTERACCIÓN 7: BETABLOQUEANTES + CALCIOANTAGONISTAS NO DHP (VERAPAMILO, DILTIAZEM)
+-----------------------------------------------------------------------------------
+Mecanismo: Efecto cronotrópico e inotrópico negativo aditivo.
+Riesgo: Bradicardia severa, bloqueo AV, insuficiencia cardíaca.
+Severidad: ALTA
+Conducta: Evitar combinación, especialmente IV. Si necesario, vigilancia ECG.
+
+INTERACCIÓN 8: METOTREXATO + AINEs / TRIMETOPRIM
+-------------------------------------------------
+Mecanismo: Disminuye la eliminación renal del metotrexato y desplaza unión a proteínas.
+Riesgo: Mielosupresión grave, hepatotoxicidad.
+Severidad: CRÍTICA
+Conducta: Contraindicada la asociación con cotrimoxazol. Precaución con AINEs en pacientes con MTX a altas dosis.
+
+INTERACCIÓN 9: LITIO + IECA / DIURÉTICOS TIAZÍDICOS / AINEs
+-----------------------------------------------------------
+Mecanismo: Disminución del aclaramiento renal de litio.
+Riesgo: Intoxicación por litio (temblor, ataxia, confusión, convulsiones).
+Severidad: ALTA
+Conducta: Monitorizar litemia. Ajustar dosis.
+
+INTERACCIÓN 10: ANTICONCEPTIVOS ORALES + RIFAMPICINA / ANTIEPILÉPTICOS INDUCTORES
+---------------------------------------------------------------------------------
+Mecanismo: Inducción del CYP3A4 acelera metabolismo del estrógeno.
+Riesgo: Fallo anticonceptivo, embarazo no deseado.
+Severidad: ALTA
+Conducta: Método anticonceptivo alternativo (DIU, barrera) durante el tratamiento y hasta 4 semanas después.
+
+INTERACCIÓN 11: BENZODIAZEPINAS + OPIOIDES + ALCOHOL
+----------------------------------------------------
+Mecanismo: Depresión aditiva del SNC y respiratoria.
+Riesgo: Depresión respiratoria, muerte.
+Severidad: CRÍTICA
+Conducta: Evitar. Advertir al paciente sobre el riesgo letal.
+
+INTERACCIÓN 12: ALOPURINOL + AZATIOPRINA / 6-MERCAPTOPURINA
+------------------------------------------------------------
+Mecanismo: Alopurinol inhibe xantina oxidasa, principal vía metabólica de azatioprina.
+Riesgo: Mielosupresión grave (pancitopenia).
+Severidad: CRÍTICA
+Conducta: Reducir dosis de azatioprina al 25%, o evitar la combinación.
+
+---
+
+CONTRAINDICACIONES ABSOLUTAS HABITUALES (por condición clínica)
+
+- AINEs en insuficiencia renal con TFG <30, embarazo 3er trimestre, úlcera péptica activa.
+- Metformina con TFG <30 mL/min.
+- IECA/ARA-II en embarazo (teratogenicidad).
+- Betabloqueantes en bloqueo AV 2º-3º sin marcapasos, asma grave no controlada.
+- Estrógenos con antecedente de tromboembolismo venoso, cáncer de mama hormonosensible.
+- Codeína/tramadol en niños <12 años y en metabolizadores ultrarrápidos del CYP2D6.

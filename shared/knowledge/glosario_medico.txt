@@ -1,0 +1,149 @@
+GLOSARIO MÉDICO — TÉRMINOS DE USO FRECUENTE EN HISTORIA CLÍNICA
+=================================================================
+
+FUENTE: Diccionario de Términos Médicos (RANM), MeSH, Manual MSD.
+
+DEFINICIÓN: Cada entrada incluye el término técnico, una definición clínica precisa,
+y una explicación en lenguaje cotidiano para el paciente.
+
+---
+
+ANAMNESIS
+---------
+Definición: Conjunto de datos clínicos obtenidos mediante interrogatorio al paciente sobre antecedentes, hábitos y síntomas actuales.
+En simple: La entrevista que hace el médico para conocer la historia del paciente y sus síntomas.
+
+DISNEA
+------
+Definición: Sensación subjetiva de dificultad para respirar o falta de aire. Se gradúa según la escala mMRC o NYHA.
+En simple: Sentir que le falta el aire, ahogo.
+
+ASTENIA
+-------
+Definición: Sensación generalizada de cansancio, debilidad y falta de energía, sin causa muscular específica.
+En simple: Cansancio extremo, sentirse sin fuerzas.
+
+ANOREXIA
+--------
+Definición: Disminución o pérdida del apetito. No debe confundirse con anorexia nerviosa (trastorno psiquiátrico).
+En simple: Falta de hambre, no querer comer.
+
+CEFALEA
+-------
+Definición: Dolor localizado en cualquier zona de la cabeza. Se clasifica en primaria (migraña, tensional) o secundaria.
+En simple: Dolor de cabeza.
+
+NÁUSEA / EMESIS
+---------------
+Definición: Náusea es la sensación desagradable de inminente vómito. Emesis es la expulsión activa del contenido gástrico.
+En simple: Ganas de vomitar (náusea) y vómito (emesis).
+
+DIAFORESIS
+----------
+Definición: Sudoración excesiva, profusa, que puede ser localizada o generalizada.
+En simple: Sudar mucho, "sudores fríos".
+
+SÍNCOPE
+-------
+Definición: Pérdida transitoria de conciencia por hipoperfusión cerebral global, con recuperación espontánea y completa.
+En simple: Desmayo o desvanecimiento breve.
+
+DISURIA / POLAQUIURIA
+---------------------
+Definición: Disuria es dolor o escozor al orinar. Polaquiuria es aumento de la frecuencia urinaria con volúmenes pequeños.
+En simple: Ardor al orinar (disuria) y orinar muchas veces poca cantidad (polaquiuria).
+
+HEMATURIA
+---------
+Definición: Presencia de sangre en la orina, macroscópica (visible) o microscópica (detectada en análisis).
+En simple: Sangre en la orina.
+
+EDEMA
+-----
+Definición: Acumulación anormal de líquido en el espacio intersticial, con signo de fóvea al presionar.
+En simple: Hinchazón, retención de líquidos.
+
+ICTERICIA
+---------
+Definición: Coloración amarilla de piel, mucosas y escleras por aumento de bilirrubina en sangre (>2 mg/dL).
+En simple: Ojos y piel amarillos.
+
+DISFAGIA
+--------
+Definición: Dificultad para deglutir. Puede ser orofaríngea o esofágica, para sólidos o líquidos.
+En simple: Dificultad para tragar.
+
+PIROSIS
+-------
+Definición: Sensación de ardor o quemazón retroesternal ascendente, característica del reflujo gastroesofágico.
+En simple: Ardor de estómago que sube por el pecho, "agruras".
+
+DIAGNÓSTICO DIFERENCIAL
+-----------------------
+Definición: Proceso de razonamiento clínico para distinguir entre varias enfermedades que comparten síntomas similares.
+En simple: Lista de posibles enfermedades que podrían explicar lo que tiene el paciente.
+
+PRONÓSTICO
+----------
+Definición: Juicio clínico sobre la evolución probable de una enfermedad y sus consecuencias futuras.
+En simple: Predicción sobre cómo va a evolucionar la enfermedad.
+
+ETIOLOGÍA
+---------
+Definición: Causa o conjunto de causas que originan una enfermedad.
+En simple: La causa de la enfermedad.
+
+PROFILAXIS
+----------
+Definición: Conjunto de medidas destinadas a prevenir la aparición o transmisión de una enfermedad.
+En simple: Prevención.
+
+YATROGENIA / IATROGENIA
+-----------------------
+Definición: Daño en la salud causado de forma no intencional por un acto médico (medicamento, intervención, prueba).
+En simple: Efecto no deseado causado por el propio tratamiento médico.
+
+COMORBILIDAD
+------------
+Definición: Presencia simultánea de dos o más enfermedades en un mismo paciente, generalmente crónicas.
+En simple: Tener varias enfermedades a la vez (por ej. diabetes + hipertensión).
+
+ANTECEDENTES PERSONALES / FAMILIARES
+------------------------------------
+Definición: Historial de enfermedades previas del paciente o de sus familiares de primer grado.
+En simple: Las enfermedades que ha tenido antes el paciente o que han tenido sus padres y hermanos.
+
+EXPLORACIÓN FÍSICA
+------------------
+Definición: Examen sistemático del paciente mediante inspección, palpación, percusión y auscultación.
+En simple: La revisión física que hace el médico mirando, tocando y escuchando con el fonendoscopio.
+
+PRUEBAS COMPLEMENTARIAS
+-----------------------
+Definición: Estudios analíticos, de imagen o funcionales que apoyan el diagnóstico clínico.
+En simple: Análisis, radiografías, ecografías u otros estudios para confirmar el diagnóstico.
+
+DERIVACIÓN / INTERCONSULTA
+--------------------------
+Definición: Remitir al paciente a otro especialista o nivel asistencial para valoración adicional.
+En simple: Mandar al paciente a otro médico especialista.
+
+CRÓNICO vs AGUDO
+-----------------
+Definición: Agudo es de inicio reciente y corta duración (<6 semanas). Crónico es de larga duración (>6 meses) o persistente.
+En simple: Agudo = problema reciente y de corta duración. Crónico = problema que dura mucho tiempo.
+
+BENIGNO vs MALIGNO
+-------------------
+Definición: Benigno se refiere a una lesión no cancerosa, sin capacidad invasiva. Maligno indica capacidad de invasión, destrucción y metástasis.
+En simple: Benigno = no es cáncer. Maligno = es cáncer.
+
+ANALGESIA / ANALGÉSICO
+----------------------
+Definición: Eliminación o disminución del dolor. Un analgésico es un fármaco que produce este efecto.
+En simple: Calmar el dolor. Un analgésico es una pastilla para el dolor.
+
+DOSIS / POSOLOGÍA
+-----------------
+Definición: Cantidad de medicamento administrada. La posología es la pauta completa: dosis, frecuencia y duración.
+En simple: Cuánto medicamento tomar, cuándo y por cuánto tiempo.

@@ -1,0 +1,11 @@
+flask
+flask-cors
+flask-jwt-extended
+langchain
+langchain-google-genai
+langchain-community
+chromadb
+python-dotenv
+httpx
+pypdf
+duckduckgo-search

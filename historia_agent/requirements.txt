@@ -1,0 +1,7 @@
+mirascope[google]
+mcp
+a2a-sdk[http-server]
+uvicorn[standard]
+starlette
+sse-starlette
+python-dotenv

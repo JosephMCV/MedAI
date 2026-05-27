@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MedAI — Asistente Clínico</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="chat-page">
+
+  <div class="app-shell">
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+      <div class="sidebar-brand">
+        <span class="brand-icon">⚕</span>
+        <div>
+          <div class="brand-name">medai</div>
+          <div class="brand-tag">asistente clínico</div>
+        </div>
+      </div>
+
+      <button class="new-chat-btn" onclick="newConversation()">
+        <span>+</span> Nuevo análisis
+      </button>
+
+      <div class="sidebar-section">
+        <div class="sidebar-section-title">Agentes activos</div>
+        <div class="agent-status-list">
+          <div class="agent-status" id="status-mcp"><span class="dot"></span> MCP Server</div>
+          <div class="agent-status" id="status-medico"><span class="dot"></span> Médico Dx</div>
+          <div class="agent-status" id="status-riesgos"><span class="dot"></span> Riesgos</div>
+          <div class="agent-status" id="status-historia"><span class="dot"></span> Historia</div>
+          <div class="agent-status" id="status-traductor"><span class="dot"></span> Traductor</div>
+        </div>
+      </div>
+
+      <div class="sidebar-section">
+        <details class="sidebar-tool">
+          <summary>🔍 Buscar en base clínica</summary>
+          <div class="tool-body">
+            <input type="text" id="searchQuery" placeholder="Síntoma, CIE-10, interacción..." />
+            <button onclick="searchClauses()">Buscar</button>
+            <div id="searchResults" class="tool-results"></div>
+          </div>
+        </details>
+      </div>
+
+      <div class="sidebar-section">
+        <details class="sidebar-tool">
+          <summary>🌐 Web médica (MCP)</summary>
+          <div class="tool-body">
+            <input type="text" id="webQuery" placeholder="NIH, OMS, NICE..." />
+            <button onclick="webSearch()">Buscar</button>
+            <div id="webResults" class="tool-results"></div>
+          </div>
+        </details>
+      </div>
+
+      <div class="sidebar-footer">
+        <div class="user-info" id="navUser"></div>
+        <button class="logout-btn" onclick="logout()">Cerrar sesión</button>
+      </div>
+    </aside>
+
+    <!-- MAIN CHAT AREA -->
+    <main class="chat-main">
+
+      <header class="chat-header">
+        <div class="chat-title">Análisis clínico multiagente</div>
+        <div class="chat-disclaimer">⚠ Apoyo a la decisión · no sustituye consulta médica</div>
+      </header>
+
+      <div class="conversation" id="conversation">
+
+        <!-- Empty state -->
+        <div class="empty-state" id="emptyState">
+          <div class="empty-icon">🩺</div>
+          <h2>Empieza un análisis clínico</h2>
+          <p>Pega el caso del paciente y los 4 agentes responderán en paralelo:</p>
+          <ul class="agent-preview-list">
+            <li><span class="ap-icon">🩺</span> <strong>Médico Diagnosticador</strong> — diagnóstico diferencial y banderas rojas</li>
+            <li><span class="ap-icon">⚠️</span> <strong>Riesgos Clínicos</strong> — interacciones, comorbilidades</li>
+            <li><span class="ap-icon">📋</span> <strong>Historia Clínica</strong> — resumen estructurado</li>
+            <li><span class="ap-icon">💬</span> <strong>Traductor</strong> — explicación para el paciente</li>
+          </ul>
+          <div class="example-prompts">
+            <button class="example-btn" onclick="useExample(0)">Mujer 62a, dolor torácico opresivo</button>
+            <button class="example-btn" onclick="useExample(1)">Hombre 38a, cefalea en trueno</button>
+            <button class="example-btn" onclick="useExample(2)">Niño 6a, fiebre + exantema</button>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- COMPOSER -->
+      <div class="composer-area">
+        <div class="composer">
+          <textarea
+            id="composerInput"
+            placeholder="Describe el caso clínico: edad, sexo, motivo de consulta, síntomas, antecedentes, medicación, exploración, pruebas..."
+            rows="3"
+          ></textarea>
+          <div class="composer-actions">
+            <label class="composer-attach" for="fileInput" title="Adjuntar PDF de historia clínica">📎</label>
+            <input type="file" id="fileInput" accept=".pdf,.txt" hidden />
+            <span id="fileName" class="file-name-mini"></span>
+            <button class="composer-send" id="sendBtn" onclick="sendCase()">
+              <span class="send-arrow">↗</span>
+            </button>
+          </div>
+        </div>
+        <div class="composer-hint">Enter para enviar · Shift+Enter para nueva línea</div>
+      </div>
+
+    </main>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

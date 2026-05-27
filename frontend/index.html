@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MedAI — Analizador Inteligente de Diagnósticos</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="login-page">
+
+  <div class="login-container">
+    <div class="login-card">
+      <div class="login-logo">
+        <span class="logo-icon">⚕</span>
+        <h1>medai</h1>
+        <p class="logo-tagline">asistente clínico multiagente</p>
+      </div>
+
+      <form id="loginForm" class="login-form">
+        <div class="form-group">
+          <label for="username">Usuario</label>
+          <input type="text" id="username" placeholder="admin o medico" autocomplete="username" />
+        </div>
+        <div class="form-group">
+          <label for="password">Contraseña</label>
+          <input type="password" id="password" placeholder="••••••••" autocomplete="current-password" />
+        </div>
+        <button type="submit" id="loginBtn" class="btn btn-primary btn-full">
+          Iniciar Sesión
+        </button>
+        <p id="loginError" class="error-msg hidden"></p>
+      </form>
+
+      <div class="demo-credentials">
+        <p class="demo-title">Credenciales de demo</p>
+        <div class="credential-pills">
+          <span class="pill" onclick="fillCredentials('admin','admin123')">admin / admin123</span>
+          <span class="pill" onclick="fillCredentials('medico','medico123')">medico / medico123</span>
+        </div>
+      </div>
+    </div>
+
+    <p class="login-footer">
+      A2A · RAG · MCP · streaming SSE<br/>
+      Apoyo clínico — no sustituye consulta médica
+    </p>
+  </div>
+
+  <script>
+    const API = "http://localhost:8080";
+
+    function fillCredentials(u, p) {
+      document.getElementById("username").value = u;
+      document.getElementById("password").value = p;
+    }
+
+    document.getElementById("loginForm").addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const btn = document.getElementById("loginBtn");
+      const err = document.getElementById("loginError");
+      btn.textContent = "Ingresando...";
+      btn.disabled = true;
+      err.classList.add("hidden");
+
+      const username = document.getElementById("username").value.trim();
+      const password = document.getElementById("password").value.trim();
+
+      try {
+        const res = await fetch(`${API}/login`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ username, password }),
+        });
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.error || "Error de autenticación");
+
+        localStorage.setItem("medai_token",   data.token);
+        localStorage.setItem("medai_user",    data.usuario);
+        localStorage.setItem("medai_nombre",  data.nombre);
+        window.location.href = "dashboard.html";
+      } catch (ex) {
+        err.textContent = ex.message;
+        err.classList.remove("hidden");
+        btn.textContent = "Iniciar Sesión";
+        btn.disabled = false;
+      }
+    });
+
+    if (localStorage.getItem("medai_token")) {
+      window.location.href = "dashboard.html";
+    }
+  </script>
+</body>
+</html>
